@@ -1,0 +1,7 @@
+print ('ola mundo')
+nome = input ('Qual o seu nome? ')
+print ('Olá',nome+'! Seja bem vindo!')
+print ('Me fale mais sobre você.')
+dia = input ('Qual dia do seu anivesario? ')
+mes = input ('em qual mês você nasceu? ')
+ano = input ('e o ano? ')
